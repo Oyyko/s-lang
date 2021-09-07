@@ -1,3 +1,4 @@
 # s-lang
 a new language for fun!
-Test222
+
+This repo is now transferred to here: https://github.com/Pscgylotti/Sylia-Lang
